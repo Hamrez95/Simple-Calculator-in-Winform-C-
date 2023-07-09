@@ -265,7 +265,7 @@
             this.buttonMultiply.Name = "buttonMultiply";
             this.buttonMultiply.Size = new System.Drawing.Size(45, 42);
             this.buttonMultiply.TabIndex = 25;
-            this.buttonMultiply.Text = "*";
+            this.buttonMultiply.Text = "x";
             this.buttonMultiply.UseVisualStyleBackColor = false;
             this.buttonMultiply.Click += new System.EventHandler(this.OperationButtonClick);
             // 

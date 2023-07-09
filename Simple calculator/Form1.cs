@@ -63,7 +63,7 @@ namespace Simple_calculator
                 case "-":
                     result = currentNumber - secondNumber;
                     break;
-                case "*":
+                case "x":
                     result = currentNumber * secondNumber;
                     break;
                 case "/":
